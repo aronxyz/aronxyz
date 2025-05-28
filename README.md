@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Full-Stack Developer specialized in the React ecosystem**, including React, Next.js, TypeScript, and JavaScript.  
+**I'm Aarón, a Full-Stack Developer specialized in the React ecosystem**, including React, Next.js, TypeScript, and JavaScript.  
 I work with Tailwind CSS and Sass, and stay up to date with the latest HTML and CSS standards.
 
 I have a feel for and care deeply about user interfaces — having spent time studying **UX/UI principles** and working with design tools like **Figma** and **Illustrator**, with occasional use of **Photoshop**. I enjoy crafting intuitive, accessible, and visually appealing frontends that truly serve users.
