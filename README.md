@@ -13,7 +13,5 @@ I love designing databases and am genuinely interested in **system design**, arc
 Currently, I'm exploring CMS platforms like **WordPress** and **Shopify**, as well as headless CMS options such as **Sanity** and **Strapi**.  
 Today, I’m leaning more toward the backend side of my full-stack profile, revisiting **PHP (especially Laravel)** and **C# with .NET**.
 
----
-
-I have a formal education as a **Técnico Superior en Desarrollo de Aplicaciones Web**.  
-My native language is **Spanish**, but I studied in a **bilingual high school**, and I genuinely enjoy using English — it's my go-to language for learning and working.  
+Finally, I have a formal education as a **Técnico Superior en Desarrollo de Aplicaciones Web**.  
+My native language is **Spanish**, but I studied in a **bilingual high school**, and I genuinely enjoy using **English** — it's my go-to language for learning and working.  
